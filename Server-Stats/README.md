@@ -8,8 +8,7 @@ A bash script that analyzes basic server performance stats. It can be run on any
 - **Top 5 processes by CPU usage**
 - **Top 5 processes by memory usage**
 
-## **Requirement**
-*To be updated*
+This project is part of the DevOps roadmap suggested on [roadmap.sh](https://roadmap.sh/devops/projects). You can find the details of this project [here](https://roadmap.sh/projects/server-stats)
 
 ## **Installation**
 1. Clone or download the script:
