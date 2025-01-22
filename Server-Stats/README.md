@@ -21,8 +21,13 @@ A bash script that analyzes basic server performance stats. It can be run on any
 ```
 chmod +x server-stats.sh
 ```
-## **Output**
+3. Run the script:
+```
+./server-stats.sh
+```
 The script will display all information in a formatted output to the terminal shown below.
+
+## **Output**
 
 
 
