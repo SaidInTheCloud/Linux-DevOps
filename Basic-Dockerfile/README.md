@@ -5,9 +5,9 @@ This project required to write a  basic Dockerfile to create a Docker image. Whe
 Requirements
 
 -  **The Dockerfile should be named Dockerfile.**
-   **The Dockerfile should be in the root directory of the project.**
-   **The base image should be alpine:latest.**
-   **The Dockerfile should contain a single instruction to print “Hello, Captain!” to the console before exiting.**
+-  **The Dockerfile should be in the root directory of the project.**
+-  **The base image should be alpine:latest.**
+-  **The Dockerfile should contain a single instruction to print “Hello, Captain!” to the console before exiting.**
 
 This project is part of the DevOps roadmap suggested on [roadmap.sh](https://roadmap.sh/devops/projects).
 
